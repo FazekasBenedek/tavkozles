@@ -14,7 +14,7 @@ A mérés célja a DVB-T jel paramétereinek ellenőrzése a földfelszíni digi
 #### **2. Mérési helyszín és környezet**
 * **Koordináták:** 48°06'20”N 20°46'48”E.
 * **Antenna típusa:** [SMART HD 550 szobaantenna](https://bolt.sat.hu/opticum-smart-hd-550-szobaantenna-3135)
-* **Antenna magassága:** 1.7 m.
+* **Antenna magassága:** 1.2 m.
 * **Környezet jellemzői:** V3 labor, városi körülmények között.
 * **Adó távolsága:** Az adótorony és a vételi hely közötti távolság 780,08 m.
 
@@ -22,15 +22,13 @@ A mérés célja a DVB-T jel paramétereinek ellenőrzése a földfelszíni digi
 
 | Paraméter | Érték |
 | :--- | :--- |
-| **Adó frekvencia** | 666 MHz |
+| **Adó frekvencia** | 586 MHz |
 | **Sávszélesség** | 8MHz |
 | **Moduláció típusa** | 64-QAM, 8K, 1/4 |
-| **Jelerősség (RSSI)** | 59.7 dBu |
-| **MER** | 28.0 dB |
+| **Jelerősség (RSSI)** | 71.7 dBu |
+| **MER** | 27.7 dB |
 | **Noise Margin** | 11.3 |
 | **Hiba nélkül vett adás időtartama** | 200 sec |
-
-A mérés kiterjedt a CH45-ös csatornán mért spektrumra, jelerősségre, jel/zaj viszonyra, bithibákra, konstellációs diagramra, valamint a DUNATV HD jelszintjére és műsorára.
 
 #### **4. Mérési eredmények**
 * **Jelerősség:** A mért jelerősség **58 dBu** volt. Ez az érték stabil maradt **200 másodperces időtartam alatt**, és megfelel a DVB-T előírásoknak. A mérési helyen a jel optimális volt.
