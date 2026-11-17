@@ -25,10 +25,45 @@ A mérés célja a DVB-T jel paramétereinek ellenőrzése a földfelszíni digi
 | **Adó frekvencia** | 586 MHz |
 | **Sávszélesség** | 8MHz |
 | **Moduláció típusa** | 64-QAM, 8K, 1/4 |
-| **Jelerősség (RSSI)** | 71.7 dBu |
+| **Jelerősség (RSSI)** | 57.4 dBu |
 | **MER** | 27.7 dB |
-| **Noise Margin** | 11.3 |
+| **Noise Margin** | 8.7 |
 | **Hiba nélkül vett adás időtartama** | 200 sec |
+
+<details>   
+  <summary> A Miskolci TV adótorony által sugárzott frekvenciák </summary>
+  <img src="https://sandorpeteer.github.io/tavkozles/img/miskolciTV.png" alt="Miskolci TV adások" />
+</details>
+
+<details>   
+  <summary> A CH35 -ös csatornán mért spektrum </summary>
+  <img width="1280" height="720" alt="its_snapshot_0005_jpg" src="https://github.com/user-attachments/assets/86a1699d-93bc-4dfb-bbaa-573858f947e5" />
+<img width="1280" height="720" alt="its_snapshot_0006_jpg" src="https://github.com/user-attachments/assets/6f1f236d-4609-4e92-9fc5-0000c36d9018" />
+<img width="1280" height="720" alt="its_snapshot_0004_jpg" src="https://github.com/user-attachments/assets/77c111a7-8c1c-4a5b-b8d3-11980f9b4ed6" />
+<img width="1280" height="720" alt="its_snapshot_0002_jpg" src="https://github.com/user-attachments/assets/6421730b-1d0d-4275-85df-b5aa4872e6bb" />
+<img width="1280" height="720" alt="its_snapshot_0003_jpg" src="https://github.com/user-attachments/assets/b8620f14-9750-4d87-8158-737d05cd206c" />
+
+</details>
+
+<details>   
+  <summary> A CH35 -ös csatornán mért jelerősség, jel/zaj viszony, és bithibák </summary>
+  
+</details>
+
+<details>   
+  <summary> A CH35 -ös csatorna konstellációs diagramja </summary>
+
+</details>
+
+<details>   
+  <summary> A CH35 -ös csatornán az M5 csatorna jelszint és TV adás </summary>
+  
+</details>
+
+<details>   
+  <summary> A CH35 -ös csatornán a DUNATV HD műsora </summary>
+  
+</details>
 
 #### **4. Mérési eredmények**
 * **Jelerősség:** A mért jelerősség **58 dBu** volt. Ez az érték stabil maradt **200 másodperces időtartam alatt**, és megfelel a DVB-T előírásoknak. A mérési helyen a jel optimális volt.
